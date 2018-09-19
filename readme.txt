@@ -1,2 +1,2 @@
-Git is a version sontrol system.
+Git is a distributed version sontrol system.
 Git is free  software.
